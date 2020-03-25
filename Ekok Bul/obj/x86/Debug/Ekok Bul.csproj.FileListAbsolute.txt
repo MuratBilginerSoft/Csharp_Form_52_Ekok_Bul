@@ -1,0 +1,14 @@
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ekok Bul\Ekok Bul\bin\Debug\Ekok Bul.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ekok Bul\Ekok Bul\bin\Debug\Ekok Bul.pdb
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ekok Bul\Ekok Bul\obj\x86\Debug\Ekok_Bul.Form1.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ekok Bul\Ekok Bul\obj\x86\Debug\Ekok_Bul.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ekok Bul\Ekok Bul\obj\x86\Debug\Ekok Bul.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ekok Bul\Ekok Bul\obj\x86\Debug\Ekok Bul.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ekok Bul\Ekok Bul\obj\x86\Debug\Ekok Bul.pdb
+C:\Users\murat\Desktop\27 Kodbank C# Görsel Programlama 27 Ekok Bul\Ekok Bul\Ekok Bul\obj\x86\Debug\Ekok Bul.exe
+C:\Users\murat\Desktop\27 Kodbank C# Görsel Programlama 27 Ekok Bul\Ekok Bul\Ekok Bul\obj\x86\Debug\Ekok Bul.pdb
+C:\Users\murat\Desktop\27 Kodbank C# Görsel Programlama 27 Ekok Bul\Ekok Bul\Ekok Bul\bin\Debug\Ekok Bul.exe
+C:\Users\murat\Desktop\27 Kodbank C# Görsel Programlama 27 Ekok Bul\Ekok Bul\Ekok Bul\bin\Debug\Ekok Bul.pdb
+C:\Users\murat\Desktop\27 Kodbank C# Görsel Programlama 27 Ekok Bul\Ekok Bul\Ekok Bul\obj\x86\Debug\Ekok_Bul.Form1.resources
+C:\Users\murat\Desktop\27 Kodbank C# Görsel Programlama 27 Ekok Bul\Ekok Bul\Ekok Bul\obj\x86\Debug\Ekok_Bul.Properties.Resources.resources
+C:\Users\murat\Desktop\27 Kodbank C# Görsel Programlama 27 Ekok Bul\Ekok Bul\Ekok Bul\obj\x86\Debug\Ekok Bul.csproj.GenerateResource.Cache
